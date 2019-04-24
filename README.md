@@ -1,2 +1,0 @@
-# Sekhar
-ownhub
